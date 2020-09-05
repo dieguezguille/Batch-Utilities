@@ -5,4 +5,4 @@ Personal .bat files I write for my own confort
 
 | Filename | Description |
 | --- | --- |
-| gltfjsx-task | Choose a GLTF model in current directory, script converts it to .js and moves the files to the configured repo. |
+| gltfjsx-task | Converts GLTF in current directory to .js and moves the files to the configured repo. |
